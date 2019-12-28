@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "How to start programming"
-date:   2019-12-17 20:00:00 -0700
+title: "How to start programming"
+date: 2019-12-17 20:00:00 -0700
+permalink: /blog/:title
 tags: [beginner, programming,  languages, tutorial, developer, how, to, start, java, c#, computer, android, mobile, html, javascript, apple, ios, google, server]
 categories: [development, tutorial]
 ---
-
 ## `You want a piece of this tech?`
 Learning a programming language from scratch is hard so expect that much, there are no good shortcuts. It takes a lot of work and requires some metal preparation to ensure that you do not quit when it seems impossible. There are so many programming languages out there, and each one seems to be a little different than the last. Not to forget they all exist for different reasons, while some exist for the same reason. Where to start… Assuming you have done some sort of research and you know what programmers do, we can get some basics down. These basics may guide you to a particular programming field just based on what interests you the most, but do not worry if it doesn't. Let me first tell you a little on how I got started, it will help you see some aspects. Don't get caught up on the languages I used, we will get into more detail later.
+<!--more-->
 
 ## `How i got started`
 I personally did know what I wanted to do, I wanted to be an Android developer, but I still started with 3 different programming languages that are not used in Android (languages were Visual basics, C, C++). Then I got a job in Unity development which I programmed in C# and JavaScript. Let me assure you that this did not waste my time. A lot of the patterns, structure and knowledge used in one language transfers to other. It may not be a direct one to one correlation but its close and its very useful to play around with a couple of languages. 

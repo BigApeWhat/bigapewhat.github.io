@@ -11,13 +11,14 @@ footer-links:
   github:  BigApeWhat
   instagram: Blundercation
   rss: Feed This
-  email: bigapewhat@gmail.com
+  email: mickar8632@gmail.com
 
 google_analytics: UA-154968568-1
 
 url: https://www.explicitcoder.com
 baseurl: ""
 
+excerpt_separator: <!--more-->
 permalink: /:title/
 
 # The release of Jekyll Now that you're using

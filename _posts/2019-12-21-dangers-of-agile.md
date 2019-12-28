@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Dangers of Agile"
-date:   2019-12-21 20:00:00 -0700
+title: "Dangers of Agile"
+permalink: /blog/:title
+date: 2019-12-21 20:00:00 -0700
 tags: [agile, development, safe, warning, scrum, waste]
 categories: [development]
 ---
 ## Why you picking on my friend
 There are so many different variants of agile, each with its own definition and rules to follow. In short, agile is the ability to move forward by creating and responding to change. It allows projects to have a general idea of the finalization of their product. You do not want to plan the whole project out (known as “Big Design Up Front”), so that you can leave room for changing requirements, because most likely they will change. This whole mindset is accomplished with Iterative works like planning, grooming, standups, kanban, story boards, combining coding work and testing, sprints, etc, and frameworks such as Scrum, Extreme Programming or Feature-Driven Development, etc. To keep you from thinking that I am against agile let me do some explaining. 
-
+<!--more-->
 ## This is me explaining things
 I don't think that agile is a bad process, it has many benefits and it is a much better than its predecessor... using the waterfall method. I am very much for Agile, and even embrace it, which is why i got SAFe certified because I very much enjoy it. It helps companies save money, time, resources, and best of all it helps get a high quality product out the door. It is up to the company to implement it correctly and “fix” places in agile that are not set to company standards or hold a product back. Main point im trying to make is that, just because its popular and has these benefits do not blindly follow it and use your head to improve Agile when you see places it lacks. Don't ignore blind spots just because agile tells you too, weigh out the alternatives and see if a better route is available for your particular problem.
 
