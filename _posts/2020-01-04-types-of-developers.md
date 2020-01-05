@@ -7,7 +7,7 @@ categories: [development]
 ---
 ## Types of what now? 
 No matter what your career is, there will be typical behavioral patterns that you recognize within your co-workers. A lot of these patterns are universal between any career, and surely some are stereotypical within a field of work. In general this is good and healthy, we want people to be different, its the change in our lives that make us think and adapt. Although with these differences there will also be conflict, which may lead to hardcore office battles of the wits. When working in a professional environment and you want to be taken seriously, there are patterns and tactics that you can use to ensure a civil dispute. The same can be said that there are proper ways and actions to handle these different types of people.
-
+<!--more-->
 This is a guide that lists the types of developers I have meet across my career which I tend to see as repetitive at many companies, so I have captured them. This is not a guide to help you change out of one of these habits or to help you speak with difficult people. Those are skills and powers you can do on your own, knowledge is the biggest battle and the hardest to overcome. Not many people want to admit to, or even be aware of a bad habit they may possess. Most of these people do not even try to search for any of their own flaws. I do, and I hope you try as well, not all flaws need repair, there are some that shouldn't bother us.
 
 Having this awareness could be beneficial to improve your own attitude or to be prepared by knowing how to interact with different types of developers. As you will see, some of these qualities are not beneficial to obtaining a professional career, but they open the door for improvement or a challenge.
